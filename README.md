@@ -140,7 +140,9 @@ A Power BI dashboard was created to visualise:
 * Operational bottlenecks
 * Patient outcomes
 
-Dashboard screenshots will be added below.
+## 📊 Dashboard
+
+![Emergency Room Dashboard](er-dashboard.png)
 
 ---
 
